@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class MIStest {
 	
-	private static final String csvFilePath="C:\\Users\\CORONA\\Desktop\\karim.txt";
+	private static final String csvFilePath="File-Path";
     public static void main(String[] args) {
     	NumberFormat fmt1= NumberFormat.getCurrencyInstance();
     	Scanner scanner = new Scanner(System.in);
